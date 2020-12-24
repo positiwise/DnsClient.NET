@@ -1,3 +1,7 @@
+Forked because of working on specific DNSSEC issues.
+
+--Original Below---
+
 # DnsClient.NET
 
 [![Build Status](https://dev.azure.com/michaco/DnsClient/_apis/build/status/MichaCo.DnsClient.NET?branchName=dev&label=Build)](https://dev.azure.com/michaco/DnsClient/_build/latest?definitionId=1&branchName=dev)
